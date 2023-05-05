@@ -1,2 +1,2 @@
 # TopDownShooter
- proyecto de mecanica 
+ proyecto mecanica
